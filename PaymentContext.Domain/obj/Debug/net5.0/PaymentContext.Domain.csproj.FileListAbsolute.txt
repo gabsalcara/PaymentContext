@@ -2,14 +2,14 @@ C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\bin\Debug\n
 C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.dll
 C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\ref\PaymentContext.Domain.dll
 C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.pdb
+C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.dll
+C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.pdb
 C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csprojAssemblyReference.cache
 C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.AssemblyInfoInputs.cache
 C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.AssemblyInfo.cs
 C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.CopyComplete
 C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.dll
 C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\ref\PaymentContext.Domain.dll
 C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.pdb
-C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.dll
-C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.pdb
-C:\Users\A0080459\Downloads\dev\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.CopyComplete

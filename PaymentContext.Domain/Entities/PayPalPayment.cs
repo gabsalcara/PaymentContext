@@ -1,4 +1,5 @@
 using System;
+using PaymentContext.Domain.ValueObjects;
 
 namespace PaymentContext.Domain.Entities
 {
@@ -6,9 +7,9 @@ namespace PaymentContext.Domain.Entities
     {
         public PayPalPayment(
             string transactionCode,
-            string address,
-            string document,
-            string email,
+            Address address,
+            Document document,
+            Email email,
             string payer,
             DateTime paidDate,
             DateTime expireDate,
