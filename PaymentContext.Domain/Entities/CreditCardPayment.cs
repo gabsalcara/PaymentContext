@@ -30,10 +30,12 @@ namespace PaymentContext.Domain.Entities
             CardHolderName = cardHolderName;
             CardNumber = cardNumber;
             LastTransactionNumber = lastTransactionNumber;
+            TransactionCode = transactionCode;
         }
 
         public string CardHolderName { get; private set; }
         public string CardNumber { get; private set; }
         public string LastTransactionNumber { get; private set; }
+        public string TransactionCode { get; private set; }
     }
 }

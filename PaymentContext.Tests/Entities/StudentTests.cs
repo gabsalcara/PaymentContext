@@ -14,6 +14,7 @@ namespace PaymentContext.Tests
         private readonly Address _address;
         private readonly Email _email;
         private readonly Student _student;
+        private readonly Subscription _subscription;
         public StudentTests()
         {
             _name = new Name("Bruce", "Wayne");
@@ -21,6 +22,7 @@ namespace PaymentContext.Tests
             _address = new Address("Avenida Paulista","123","Paulista","SP","SP","Brazil","03340180");
             _email = new Email("batman@dc.com");
             _student = new Student(_name, _document, _email);
+            _subscription = new Subscription(null);
         }
 
         [TestMethod]
